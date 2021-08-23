@@ -13,11 +13,27 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thibautastic/); [UBC](https://www.eoas.ubc.ca/people/thibautastic); [ResearchGate](https://www.researchgate.net/profile/Thibaut-Astic)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
+
+- 📝 [Resume](https://github.com/thast/.pdf)
+
+**Languages and Tools:** 
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Latex](https://img.shields.io/badge/-Latex-000?&logo=Latex)
+
+
 -->
 
 
 
 ![Thibaut Astic's github stats](https://github-readme-stats.vercel.app/api?username=thast&show_icons=true&theme=dark&count_private=true)
 ) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thast&theme=dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thast&theme=dark&count_private=true&layout=compact)
 )](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=thast.thast)
+
