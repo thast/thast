@@ -28,7 +28,15 @@ Here are some ideas to get you started:
 
 -->
 
+**Languages and Tools:** 
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Matlab](https://img.shields.io/badge/-Matlab-000?&logo=Matlab)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Latex](https://img.shields.io/badge/-Latex-000?&logo=Latex)
+
+**GitHub Stats:**
 
 ![Thibaut Astic's github stats](https://github-readme-stats.vercel.app/api?username=thast&show_icons=true&theme=dark&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thast&theme=dark&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
